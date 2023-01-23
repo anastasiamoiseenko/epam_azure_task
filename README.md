@@ -3,7 +3,7 @@
 ### Part 1 – Configure application
 1. Create a service connection in a Azure DevOps project to your subscription
 
-![Image alt](https://github.com/anastasiamoiseenko/epam_azure_task/raw/main/screenshots/az_4_service_connecton.png
+![Image alt](/epam_azure_task/screenshots/az_4_service_connecton.png?raw=true)
 
 2.  Find a pet project for the experiments
 I have chosen the simple node.js app to practice following after lectures
